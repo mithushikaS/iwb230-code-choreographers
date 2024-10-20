@@ -1,0 +1,9 @@
+[package]
+org = "dell"
+name = "authentication_service"
+version = "0.1.0"
+
+[dependencies]
+ballerina/http = "1.0.0"
+ballerina/jwt ="1.0.0"
+
