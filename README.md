@@ -16,7 +16,7 @@ MediQueue is a mobile app designed to streamline the process of booking doctor a
 - **React Native** for the front-end mobile app development
 - **Firebase** for user authentication and Firestore database
 - **Ballerina** for the backend API Gateway and services
-- **MySQL** for storing doctor, appointment, and medical record data
+- **Fire Storage** for storing doctor, appointment, and medical record data
 
 ## Requirements
 
