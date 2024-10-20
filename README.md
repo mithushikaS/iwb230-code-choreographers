@@ -34,21 +34,26 @@ Clone the MediQueue app from GitHub:
 
 
 git clone https://github.com/mithushikaS/mithushikaS-iwb230-code-choreographers.git
+
 cd mediQueue
+
 Step 2: Install Dependencies
+
 Ensure you have npm and Expo CLI installed. Then run the following command to install the necessary dependencies:
 
-
 npm install
+
 Step 3: Run the Application
+
 You can start the app by running the following command:
 
-
 npx expo start
+
 Step 4: Run Ballerina Backend
+
 Ensure that Ballerina is running on your backend services:
 
-
 cd MediQueueBackend
+
 bal run
 
