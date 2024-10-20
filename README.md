@@ -24,7 +24,6 @@ MediQueue is a mobile app designed to streamline the process of booking doctor a
 - Expo CLI
 - Firebase account with Firestore set up for user authentication
 - Ballerina installed for backend services
-- MySQL for the database
 
 ## Installation
 
