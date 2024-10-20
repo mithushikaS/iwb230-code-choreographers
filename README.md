@@ -33,6 +33,7 @@ Step 1: Clone the Repository
 Clone the MediQueue app from GitHub:
 
 git clone https://github.com/mithushikaS/mithushikaS-iwb230-code-choreographers.git
+
 cd mediQueue
 Step 2: Install Dependencies
 Ensure you have npm and Expo CLI installed. Then run the following command to install the necessary dependencies:
